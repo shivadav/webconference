@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!-- Basic Page Needs ================================================== -->
+   <meta charset="utf-8">
+
+   <!-- Mobile Specific Metas ================================================== -->
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+
+   <!-- Site Title -->
+   <title>International Conference on Emerging trends in Wireless Communication Technologies & Information Security -EWCIS 2020</title>
+
+   <link rel="shortcut icon" href="images/logos/favicon.png" />
+   <link rel="apple-touch-icon" href="images/logos/favicon.png" />
+      <!-- CSS
+         ================================================== -->
+   <!-- Bootstrap -->
+   <link rel="stylesheet" href="css/bootstrap.min.css">
+
+   <!-- FontAwesome -->
+   <link rel="stylesheet" href="css/font-awesome.min.css">
+   <!-- Animation -->
+   <link rel="stylesheet" href="css/animate.css">
+   <!-- magnific -->
+   <link rel="stylesheet" href="css/magnific-popup.css">
+   <!-- carousel -->
+   <link rel="stylesheet" href="css/owl.carousel.min.css">
+   <!-- isotop -->
+   <link rel="stylesheet" href="css/isotop.css">
+   <!-- ico fonts -->
+   <link rel="stylesheet" href="css/xsIcon.css">
+   <!-- Template styles-->
+   <link rel="stylesheet" href="css/style.css">
+   <!-- Responsive styles-->
+   <link rel="stylesheet" href="css/responsive.css">
+
+
+
+</head>
+
+<body>
+   <div class="body-inner">
+      <!-- Header start -->
+      <header id="header" class="header header-transparent nav-border">
+         <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light">
+               <!-- logo-->
+               <a class="navbar-brand" href="index.php">
+                  <img src="images/logos/amity-logo.png" alt="" style="padding: 10px;">
+               </a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+                  aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"><i class="icon icon-menu"></i></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                  <ul class="navbar-nav ml-auto">
+                     <li class="dropdown nav-item active">
+                        <a href="index.php" >Home</a>
+                     </li>
+                     <li class="dropdown nav-item active">
+                        <a href="call-for-paper.php" >Call for Paper</a>
+                     </li>
+                     <li class="dropdown nav-item active">
+                        <a href="committee.php" >Committee</a>
+                     </li>
+                     <li class="dropdown nav-item active">
+                        <a href="keynotes.php">Keynotes</a>
+                     </li>
+                     <li class="dropdown nav-item active">
+                        <a href="registration.php">Registration</a>
+                     </li>
+                     <li class="dropdown nav-item active">
+                        <a href="contact.php">Contact</a>
+                     </li>
+
+                     <li class="dropdown nav-item">
+                        <a href="#" class="" data-toggle="dropdown">More <i class="fa fa-angle-down"></i></a>
+                        <ul class="dropdown-menu" role="menu">
+                           <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="info-delegates.php">Info for Delegates</a></li>
+                          <!--  <li><a href="#">Gallery</a></li> -->
+                           <!-- <li><a href="faq.html">FAQ</a></li> -->
+                          <!--  <li><a href="pricing.html">Pricing Table</a></li> -->
+                           <li><a href="#">Sponsorship</a></li>
+                           <li><a href="#">Venue</a></li>
+                           <li><a href="#">Schedule List</a></li>
+                           <!-- <li><a href="404.html">Erro Page</a></li> -->
+                        </ul>
+                     </li>
+                     <li class="header-ticket nav-item">
+                        <img src="images/logos/slider-conference-logo.png" width="110" height="120" style="margin-top: -12px;padding-bottom: 10px; position: absolute;">
+                     </li>
+                  </ul>
+               </div>
+            </nav>
+         </div><!-- container end-->
+      </header>      <!--/ Header end -->
+
+      <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/hero_area/banner_bg.jpg)">
+         <!-- Subpage title start -->
+         <div class="page-banner-title">
+            <div class="text-center">
+               <h4>Call for Paper</h4>
+               <p class="banner-info text-white" style="font-size: 24px">International Conference on</p>
+               <h1 class="text-white">Emerging trends in Wireless Communication Technologies<br> & Information Security</h1>
+               <p class="text-white" style="font-size: 20px">14th-15th May 2020</p>
+               <p class="text-white" style="text-decoration: none">Organized by: Dept. of Electronics and Communication Engineering, Amity University, Jharkhand</p>
+               <!-- <h5>About US</h5> -->
+               <!-- <ol class="breadcrumb">
+                  <li>
+                     <a href="index.php">Home /</a>
+                  </li>
+                  <li>
+                     About
+                  </li>
+               </ol> -->
+            </div>
+         </div><!-- Subpage title end -->
+      </div><!-- Page Banner end -->
+
+        <!-- ts intro start -->
+      <section class="ts-intro-outcome" style="background: #f2f3f5">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 mx-auto">
+                  <h2 class="section-title text-center ">
+                     About Conference
+                  </h2>
+               </div>
+            </div><!-- row end-->
+            <div class="row" >
+               <div class="col-lg-12 col-md-12">
+                  <p  class="about-conf">
+                     The International Conference on Emerging Wireless Communication Technologies and Information Security [EWCIS 2020]”, will be held from May 14th 2020 to May 15th 2020 at Amity University Jharkhand, Ranchi, India. The conference is organized by the department of Electronics & Communication Engineering. EWCIS 2020 aims to congregate scientist, engineers and technologist from academia as well as from industry on the same platform for a brief yet intense period of discussion, collaboration and addressing related problems in research and also to provide a platform to the researchers to showcase their talent and publish their work in reputed journals. The research area of focus of the conference are wireless communications and intelligent systems, signal and image processing in engineering applications, data communication and information security, IoT and cloud computing.
+                  </p>
+
+               </div>
+            </div>
+         </div><!-- container end-->
+      </section>
+      <!-- ts intro end-->
+
+      <!-- Track starts -->
+
+      <section class="ts-intro-outcome" >
+         <div class="container">
+            <div class="row" >
+               <div class="col-lg-12 col-md-12">
+                  <h2  class="track-title"> Track 1:</h2>
+                  <h3  class="">Wireless Communications and intelligent Systems</h3>
+                  <p  class="about-conf">
+                     Ad Hoc Networks of Autonomous, Intelligent Systems, Autonomic Networking, Body Area Networks and   e-Health, Coverage, Connectivity and Deployment Issues, Hybrid Wireless Communication   Systems, Localization and Positioning   Schemes, Measurements and Experimental   Research, Mobile Ad Hoc Networks and   Multi-Hop Wireless, Modeling, Algorithms, and   Performance Evaluation, Ultra-Wideband and Short-Range   Networks, Vehicular Networks.
+                  </p>
+
+               </div>
+
+               <div class="col-lg-12 col-md-12">
+                  <h2  class="track-title"> Track 2:</h2>
+                  <h3  class="">Signal and Image Processing in Engineering Applications</h3>
+                  <p  class="about-conf">
+                     Image Acquisition, Image Enhancement, Image Restoration, Color Image Processing, Wavelets and Multi Resolution Processing, Compression, Morphological Processing, Segmentation, Representation and Description, Object recognition, Knowledge Base, robust and low complexity filter design, signal reconstruction, filter bank theory, wavelets, statistical signal processing, adaptive filtering, learning algorithms for neural networks, spectrum estimation and modeling, sensor array processing with applications in sonar and radar, image restoration, compression, quality evaluation, computer vision, medical imaging, modeling, compression, and recognition of speech signal, video compression, 3D compressed video, automated and distributed crowd analytics, stereo-to-autostereoscopic 3D video conversion, virtual and augmented reality, electronic and optoelectronic hardware for efficient implementation of signal, image and video processing algorithms.
+                  </p>
+
+               </div>
+
+               <div class="col-lg-12 col-md-12">
+                  <h2  class="track-title"> Track 3:</h2>
+                  <h3  class="">Data Communication and Information security</h3>
+                  <p class="about-conf"> Applied cryptography, Cryptanalysis, Digital Signatures, Authentication and access control, Biometric security, Computer and communication security, Cryptography and cryptanalysis, Cyber Physical Systems, Information systems security, Intrusion detection systems, Mobile and wireless security, Mobile, Ad Hoc and Sensor, Network Security, Multimedia security ,Operating system security, Peer-to-peer security, Privacy and data protection, Quantum cryptography, Security in Media Processing and Communications, Security modeling, tools & simulation, Security of personal area networks, Security of Wi-Fi and WiMAX systems, User & location privacy, Virtualization, VoIP & Web security.
+                  </p>
+
+               </div>
+
+               <div class="col-lg-12 col-md-12">
+                  <h2  class="track-title"> Track 4:</h2>
+                  <h3  class="">IoT and Cloud computing</h3>
+                  <p  class="about-conf">
+                     Internet of Things,  IoT Application and Services, IoT Mobility, localization,   tracking & security, Smart City Technology and   Applications, Smart city theory, modeling   and simulation, Smart Energy &   Energy-efficient networks, Smart grids, Smart home and smart buildings, Smart Transportation and   Infrastructure, Transportation Infrastructure   Sensing, Wireless ad hoc and sensor   networks, Wireless Body Area Network and Wireless Health.
+                  </p>
+
+               </div>
+				
+				<div class="col-lg-12 col-md-12">
+                  <h2  class="track-title"> Track 5:</h2>
+                  <h3  class=""> Intelligent Electronic Devices</h3>
+                  <p  class="about-conf">
+                     Wearable Devices, Pervasive/ubiquitous computing devices, Nano Devices, Single Electron, Spintronics Devices, CMOS, MEMS, NEMS, Bio-inspired computing devices, Organic Devices, Molecular devices, Carbon nano tubes.
+                  </p>
+
+               </div>
+            </div>
+         </div><!-- container end-->
+      </section>
+
+      <!-- Track Ends -->
+
+       <!-- ts intro start -->
+      <section class="ts-intro-outcome" style="background: #f2f3f5">
+         <div class="container">
+
+            <div class="row">
+               <div class="col-lg-8 mx-auto">
+                  <h2 class="section-title text-center ">
+                     DEADLINE
+                  </h2>
+               </div>
+            </div><!-- row end-->
+
+             <table class="table">
+               <tr><td> <h3  class="track-title" style="margin-bottom: 4px">Paper Submission</h3></td><td><span style="font-size: 20px; color: #444">1st March 2020</span></td></tr>
+               <tr><td> <h3  class="track-title" style="margin-bottom: 4px">Notification of Acceptance</h3></td><td><span style="font-size: 20px; color: #444">15th March 2020</span></td></tr>
+               <tr><td> <h3  class="track-title" style="margin-bottom: 4px">Registration</h3></td><td><span style="font-size: 20px; color: #444">20th March 2020 (Early Bird)</span><br><span style="font-size: 20px; color: #444"> 25th March 2020 (Final Date)</span></td></tr>
+               <tr><td> <h3  class="track-title" style="margin-bottom: 4px">Camera Ready Paper Submission</h3><p>Conference camera ready paper format and the copyright form will be sent to<br> the authors after the acceptance of the paper</p></td><td><span style="font-size: 20px; color: #444">31st March, 2020</span></td></tr>
+               <tr><td> <h3  class="track-title" style="margin-bottom: 4px">Conference</h3></td><td><span style="font-size: 20px; color: #444">14th -15th May 2020</span></td></tr>
+            </table>
+          
+         </div><!-- container end-->
+      </section>
+      <!-- ts intro end-->
+
+      <!-- Notice -->
+
+      <section class="ts-contact">
+         <div class="container">
+            <!-- <div class="row">
+               <div class="col-lg-8 mx-auto">
+                  <h2 class="section-title text-center">
+                     EWCIS 2020
+                  </h2>
+               </div>
+            </div> -->
+            <div class="row">
+               <div class="col-lg-12" style="background: #ffb74d">
+                  <p style="padding: 20px; color: #000">Authors are requested to submit their original paper in springer format (given in download section) with page limit of 8. <a href="/download/Springer_Paper_Format_Doc.docx" style="color:#fff">Click Here</a></p>
+               </div><!-- col end-->
+
+            </div><!-- row end-->
+
+            <div class="row" style="margin-top: 20px;">
+               <div class="col-lg-12" style="background: #4fc3f7">
+                  <p style="padding: 20px; color: #000">Download the conference CFP @ <a href="https://easychair.org/conferences/?conf=ewcis2020" target="_blank" style="color:#fff">Click Here</a></p>
+               </div><!-- col end-->
+
+            </div><!-- row end-->
+			 
+			 <div class="row" style="margin-top: 15px;">
+               <div class="col-lg-12" style="box-shadow:0px 8px 8px 0px rgba(0, 0, 0, 0.08)">
+                   <p class="banner-info" style="color:#444;padding:3px;font-size:17px;">Selected papers will be submitted for publication in IJRTE (Scopus)</p>
+						 <p class="banner-info" style="color:#444;padding:0px;font-size:17px;">Some of the outstanding papers of the conference will be submitted for publication in Journal Microsystem Technologies, Springer (SCI)</p>
+                        <p class="banner-info" style="color:#444;padding:4px;font-size:17px;">Extended version of article will be forwarded for publication in Privacy & Security Challenges in Location Aware Computing - Book, IGI Global</p>
+               </div><!-- col end-->
+
+            </div><!-- row end-->
+         </div><!-- container end-->
+         <div class="speaker-shap">
+               <img class="shap2" src="images/shap/home_schedule_memphis1.png" alt="">
+            </div>
+      </section>
+      <!-- Notice -->
+
+      <!-- Download Section-->
+	  
+	   	
+			
+
+      <section class="ts-contact">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 mx-auto">
+                  <h2 class="section-title text-center">
+                     Download Section
+                  </h2>
+               </div><!-- col end-->
+            </div>
+            <div class="row">
+               <div class="col-lg-3">
+				    <a href="/download/Springer_Paper_Format_Doc.docx">
+					  <div class="single-intro-text single-contact-feature">
+						 <h3 class="ts-title" style="font-size: 20px">DOC Format</h3>
+						 <span class="count-number fa fa-download" style="background: #4fc3f7"></span>
+					  </div><!-- single intro text end-->
+				   </a>
+                  <div class="border-shap left"></div>
+               </div><!-- col end-->
+               <div class="col-lg-3">
+                   <a href="/download/Springer Paper Format_TeX.zip">
+							  <div class="single-intro-text single-contact-feature">
+								 <h3 class="ts-title">Latex Format</h3>
+								 <span class="count-number fa fa-download"></span>
+							  </div><!-- single intro text end-->
+						   </a>
+                  <div class="border-shap left"></div>
+               </div><!-- col end-->
+               <div class="col-lg-3">
+                   <a href="/download/copyright-form(ewcis2020).docx">
+							  <div class="single-intro-text single-contact-feature">
+								 <h3 class="ts-title" >Copyright Form</h3>
+								 <span class="count-number fa fa-download" style="background: #4fc3f7"></span>
+							  </div><!-- single intro text end-->
+						   </a>
+                  <div class="border-shap left"></div>
+               </div><!-- col end-->
+               <div class="col-lg-3">
+				  <a href="/download/Registration_form.pdf" target="_blank">
+					  <div class="single-intro-text single-contact-feature">
+						 <h3 class="ts-title" style="font-size: 20px">Registration Form</h3>
+						 <span class="count-number fa fa-download"></span>
+					  </div><!-- single intro text end-->
+				   </a>
+                  <div class="border-shap left"></div>
+               </div><!-- col end-->
+
+            </div><!-- row end-->
+         </div><!-- container end-->
+         <div class="speaker-shap">
+               <img class="shap2" src="images/shap/home_schedule_memphis1.png" alt="">
+            </div>
+      </section>
+      <!-- Download Section-->
+
+      <!-- Schedule starts-->
+         <!-- <section class="ts-schedule">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 mx-auto">
+                  <h2 class="section-title">
+                     <span>Schedule Details</span>
+                     Event Schedules
+                  </h2>
+                  <div class="ts-schedule-nav">
+                     <ul class="nav nav-tabs justify-content-center" role="tablist">
+                        <li class="nav-item">
+                           <a class="active" title="Click Me" href="#date1" role="tab" data-toggle="tab">
+                              <h3>19th March 2020</h3>
+                              <span>Thursday</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                           <a class="" href="#date2" title="Click Me" role="tab" data-toggle="tab"> <h3>20th March 2020</h3>
+                               <span>Friday</span>
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+
+            </div>
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="tab-content schedule-tabs schedule-tabs-item">
+                     <div role="tabpanel" class="tab-pane active" id="date1">
+                        <div class="row">
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-left">
+                                 <img class="schedule-slot-speakers" src="images/speakers/speaker1.jpg" alt="">
+                                 <span class="schedule-slot-time">10.30 - 11.30 AM</span>
+                                 <h3 class="schedule-slot-title">Marketing Matters</h3>
+                                 <h4 class="schedule-slot-name">@ Henrikon Rebecca</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-right">
+                                    <img class="schedule-slot-speakers" src="images/speakers/speaker2.jpg" alt="">
+                                 <span class="schedule-slot-time">11.30 - 12.30 PM</span>
+                                 <h3 class="schedule-slot-title">Reinventing Experiences</h3>
+                                 <h4 class="schedule-slot-name">@ Johnsson Agaton</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-left">
+                                    <img class="schedule-slot-speakers" src="images/speakers/speaker3.jpg" alt="">
+                                 <span class="schedule-slot-time">12.30 - 01.30 PM</span>
+                                 <h3 class="schedule-slot-title">Cultures of Creativity</h3>
+                                 <h4 class="schedule-slot-name">@ Lundryn Melisa</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-right">
+                                    <img class="schedule-slot-speakers" src="images/speakers/speaker4.jpg" alt="">
+                                 <span class="schedule-slot-time">01.30 - 02.30 PM</span>
+                                 <h3 class="schedule-slot-title">Human Centered Design</h3>
+                                 <h4 class="schedule-slot-name">@ Fredric Martinsson</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="schedule-listing-btn">
+                           <a href="#" class="btn">More Details</a>
+                        </div>
+                     </div>
+
+                     <div role="tabpanel" class="tab-pane" id="date2">
+                        <div class="row">
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-left">
+                                    <img class="schedule-slot-speakers" src="images/speakers/speaker5.jpg" alt="">
+                                 <span class="schedule-slot-time">02.30 - 03.30 PM</span>
+                                 <h3 class="schedule-slot-title">Marketing Matters</h3>
+                                 <h4 class="schedule-slot-name">@ Rebecca Henrikon</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-right">
+                                    <img class="schedule-slot-speakers" src="images/speakers/speaker6.jpg" alt="">
+                                 <span class="schedule-slot-time">03.30 - 04.30 PM</span>
+                                 <h3 class="schedule-slot-title">Reinventing Experiences</h3>
+                                 <h4 class="schedule-slot-name">@ Hall Building</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-left">
+                                    <img class="schedule-slot-speakers" src="images/speakers/speaker7.jpg" alt="">
+                                 <span class="schedule-slot-time">04.30 - 05.30 PM</span>
+                                 <h3 class="schedule-slot-title">Cultures of Creativity</h3>
+                                 <h4 class="schedule-slot-name">@ Hall Building</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="col-lg-6">
+                              <div class="schedule-listing-item schedule-right">
+                                    <img class="schedule-slot-speakers" src="images/speakers/speaker8.jpg" alt="">
+                                 <span class="schedule-slot-time">05.30 - 06.30 PM</span>
+                                 <h3 class="schedule-slot-title">Human Centered Design</h3>
+                                 <h4 class="schedule-slot-name">@ Hall Building</h4>
+                                 <p>
+                                    How you transform your business technolog consumer habits industry dynamics change
+                                    Find out from those leading the charge How you
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="schedule-listing-btn">
+                           <a href="#" class="btn">More Details</a>
+                        </div>
+                     </div>
+                  </div>
+
+               </div>
+            </div>
+         </div>
+      </section> -->
+      <!--Schedule ENds -->
+
+      
+      <!-- ts footer area start-->
+      <div class="footer-area">
+
+   
+         <!-- footer start-->
+         <footer class="ts-footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-8 mx-auto">
+                     <div class="ts-footer-social text-center mb-30" style="margin-bottom: 7px;">
+                        <ul>
+                           <li>
+                              <a href="#"><i class="fa fa-facebook"></i></a>
+                           </li>
+                           <li>
+                              <a href="#"><i class="fa fa-twitter"></i></a>
+                           </li>
+                           <li>
+                              <a href="#"><i class="fa fa-linkedin"></i></a>
+                           </li>
+                           <li>
+                              <a href="#"><i class="fa fa-instagram"></i></a>
+                           </li>
+                        </ul>
+                     </div>
+                     <!-- footer social end-->
+					  
+					  <div class="copyright-text text-center" style="margin-bottom:5px;">
+						  <p><a href="https://www.amity.edu/ranchi/" target="_blank">Amity University Jharkhand</a> | <a href="https://www.amity.edu/" target="_blank">Amity University</a></p>
+                     </div>
+                     <div class="footer-menu text-center mb-25">
+                        <ul>
+                           <li><a href="about-us.php">About </a></li>
+                           <li><a href="registration.php">Registration</a></li>
+                           <li><a href="call-for-paper.php">Call for Paper</a></li>
+                           <li><a href="keynotes.php">Keynotes</a></li>
+                           <li><a href="committee.php">Committee</a></li>
+                        </ul>
+                     </div><!-- footer menu end-->
+                     <div class="copyright-text text-center">
+                        <p>Copyright © 2019 Amity University Jharkhand. All Rights Reserved.</p>
+                     </div>
+                     <div class="copyright-text text-center">
+                        <p>Created By <a href="https://www.webdadz.com">Webdadz Technology</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </footer>                  <!-- footer end-->
+                  
+                  <div class="BackTo">
+                              <a href="#" class="fa fa-angle-up" aria-hidden="true"></a>
+                          </div>
+   
+      </div>
+      <!-- ts footer area end-->
+
+     
+
+      <!-- Javascript Files
+            ================================================== -->
+      <!-- initialize jQuery Library -->
+      <script src="js/jquery.js"></script>
+
+      <script src="js/popper.min.js"></script>
+      <!-- Bootstrap jQuery -->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- Counter -->
+      <script src="js/jquery.appear.min.js"></script>
+      <!-- Countdown -->
+      <script src="js/jquery.jCounter.js"></script>
+      <!-- magnific-popup -->
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <!-- carousel -->
+      <script src="js/owl.carousel.min.js"></script>
+      <!-- Waypoints -->
+      <script src="js/wow.min.js"></script>
+      <!-- isotop -->
+      <script src="js/isotope.pkgd.min.js"></script>
+
+      <!-- Template custom -->
+      <script src="js/main.js"></script>
+
+   </div>
+   <!-- Body inner end -->
+</body>
+</html>
